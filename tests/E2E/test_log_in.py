@@ -10,7 +10,7 @@ def driver():
     yield driver
     driver.close()
 @pytest.mark.parametrize('account', ["HAMODYJAMEELA@GMAIL.COM"])
-def test_admin_user_login(driver, account):
+def test_user_login(driver, account):
     driver.get("http://127.0.0.1:8000/#/")
     driver.find_element(By.CSS_SELECTOR, ".nav-link:nth-child(2)").click()
     driver.find_element(By.ID, "email").click()
