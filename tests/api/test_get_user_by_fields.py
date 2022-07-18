@@ -1,8 +1,8 @@
 import pytest
 from django.contrib.auth import authenticate, get_user_model
-from django.http import HttpRequest
+
 from selenium.webdriver.firefox import webdriver
-from rest_framework.test import APIClient
+
 from django.contrib.auth.models import User
 
 @pytest.fixture()

@@ -1,5 +1,5 @@
 import pytest
-import requests
+
 
 # @pytest.mark.django_db
 # def test_product_created():
