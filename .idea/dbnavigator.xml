@@ -33,6 +33,9 @@
 update  auth_user set username='hamodyjameela@gmail.com' , email='hamodyjameela@gmail.com'
 where id=3;
 
+
+
+
 select * from auth_user]]></console>
     </connection>
   </component>

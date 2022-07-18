@@ -1,4 +1,5 @@
 import pytest
+import requests
 
 # @pytest.mark.django_db
 # def test_product_created():
@@ -29,11 +30,24 @@ def test_product_creation():
 
 
 # Api test  - Integration testing
-def test_api_product_creation():
-    client = APIClient()
+# def test_api_product_creation():
+#     client = APIClient()
+#
+#     response = client.post("/api/products/create/")
+#
+#     # data = response.data
+#
+#     assert response.status_code == 200
 
-    response = client.post("/api/products/create/")
+# @pytest.mark.django_db
+# def test_api_product_creation():
+#     client = APIClient()
+#
+#     response = client.post("/api/products/create/")
+#
+#     # data = response.data
+#
+#     assert response.status_code == 200
 
-    # data = response.data
 
-    assert response.status_code == 200
+
