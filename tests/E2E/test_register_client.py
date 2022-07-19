@@ -3,12 +3,12 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import random
-@pytest.fixture()
-def driver():
-    firefox_driver_binary = "geckodriver.exe"
-    driver = webdriver.Firefox(executable_path=firefox_driver_binary)
-    yield driver
-    driver.close()
+# @pytest.fixture()
+# def driver():
+#     firefox_driver_binary = "geckodriver.exe"
+#     driver = webdriver.Firefox(executable_path=firefox_driver_binary)
+#     yield driver
+#     driver.close()
 
 @pytest.mark.parametrize('account', ["OMAR"])
 def test_user_create_account(driver,account):
