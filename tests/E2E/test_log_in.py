@@ -3,12 +3,12 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-@pytest.fixture()
-def driver():
-    firefox_driver_binary = "geckodriver.exe"
-    driver = webdriver.Firefox(executable_path=firefox_driver_binary)
-    yield driver
-    driver.close()
+# @pytest.fixture()
+# def driver():
+#     firefox_driver_binary = "geckodriver.exe"
+#     driver = webdriver.Firefox(executable_path=firefox_driver_binary)
+#     yield driver
+#     driver.close()
 @pytest.mark.parametrize('account', ["HAMODYJAMEELA@GMAIL.COM"])
 def test_user_login(driver, account):
     driver.get("http://127.0.0.1:8000/#/")
