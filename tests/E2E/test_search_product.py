@@ -10,12 +10,12 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 
-@pytest.fixture()
-def driver():
-    firefox_driver_binary = "geckodriver.exe"
-    driver = webdriver.Firefox(executable_path=firefox_driver_binary)
-    yield driver
-    driver.close()
+# @pytest.fixture()
+# def driver():
+#     firefox_driver_binary = "geckodriver.exe"
+#     driver = webdriver.Firefox(executable_path=firefox_driver_binary)
+#     yield driver
+#     driver.close()
   
 def test_search_product(driver):
     driver.get("http://127.0.0.1:8000/#/")
