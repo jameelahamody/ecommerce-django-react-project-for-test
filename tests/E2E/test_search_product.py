@@ -28,5 +28,7 @@ def test_search_product(driver):
     time.sleep(2)
     search_proc = driver.find_element(By.NAME, "q").text
     assert search_proc == expected_proc
-
+def test_fail():
+  assert 2 == 1
+    
   
