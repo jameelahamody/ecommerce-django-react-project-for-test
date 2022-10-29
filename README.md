@@ -18,6 +18,8 @@
 ### 📷 Project Screenshots
 
 ![image](https://user-images.githubusercontent.com/49075279/198839384-47e02548-5509-4d67-9fff-3883819dc514.png)
+![image](https://user-images.githubusercontent.com/49075279/198839482-c012d7ba-ad10-4178-98f3-ebd9b0c4c94f.png)
+
 
 
 ### 🚀 Project Features
