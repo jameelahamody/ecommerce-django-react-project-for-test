@@ -54,4 +54,6 @@ A completely customized eCommerce / shopping cart application using Django, REAC
 - Selenium(IDE,Webdriver,Grid)
 - Jire
 
-###  The workflow in software development and delivery is divided into 8 phases :![image](https://user-images.githubusercontent.com/49075279/198845737-a4cb185b-3478-4b59-ac43-0517e70259f5.png)
+###  The workflow in software development and delivery is divided into 8 phases :
+![image](https://user-images.githubusercontent.com/49075279/198845774-85a7fcb6-0e7c-48ac-9d13-c7e5c9366bc0.png)
+
