@@ -57,3 +57,22 @@ A completely customized eCommerce / shopping cart application using Django, REAC
 ###  The workflow in software development and delivery is divided into 8 phases :
 ![image](https://user-images.githubusercontent.com/49075279/198845774-85a7fcb6-0e7c-48ac-9d13-c7e5c9366bc0.png)
 
+
+### CI/CD (^人^)-
+ CI -> merge all code work into a main branch , code reviews , compile / build , unit tests , integration tests.
+
+ Continuous Delivery -> deploy to test servers ,builds are Delivered throughout the life cycle.
+
+ Continuous deployment -> deploy to prod servers or release .
+
+![jenkins screenshot](https://user-images.githubusercontent.com/49075279/198846051-41fe3d04-320d-43f3-a6ac-666177160d94.png)
+
+
+### Jira![image](https://user-images.githubusercontent.com/49075279/198846118-c668d4c5-1fbd-426b-bb8d-089f1c01d442.png)
+
+
+
+
+
+
+
