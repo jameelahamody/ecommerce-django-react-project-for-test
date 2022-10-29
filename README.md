@@ -17,12 +17,8 @@
 
 ### 📷 Project Screenshots
 
-![ss](./ss/ss1.png)
-![ss](./ss/ss2.png)
-![ss](./ss/ss3.png)
-![ss](./ss/ss4.png)
-![ss](./ss/ss5.png)
-![ss](./ss/ss6.png)
+![image](https://user-images.githubusercontent.com/49075279/198839384-47e02548-5509-4d67-9fff-3883819dc514.png)
+
 
 ### 🚀 Project Features
 
