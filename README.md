@@ -46,6 +46,8 @@ A completely customized eCommerce / shopping cart application using Django, REAC
 - UI tests
 - Integration tests
 - Unit tests 
+![image](https://user-images.githubusercontent.com/49075279/198846548-819d8d75-a778-4ae7-b32e-68b9d8d7ddfc.png)
+
 
 ### 🚀 Software 
 - Pycharm (python 3.9)
@@ -64,11 +66,20 @@ A completely customized eCommerce / shopping cart application using Django, REAC
  Continuous Delivery -> deploy to test servers ,builds are Delivered throughout the life cycle.
 
  Continuous deployment -> deploy to prod servers or release .
+ 
+ a tool that i use in this stage was : Jenkins
+ ![jenkins screenshot](https://user-images.githubusercontent.com/49075279/198846255-1281eaee-80bf-4b1c-b0c5-3c35ca2c6b9a.png)
 
 
 
 
-### Jira
+
+### Jira🤖-
+Is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.
+
+![image](https://user-images.githubusercontent.com/49075279/198846526-72069224-a90c-45ae-9ad3-a63e257abf6b.png)
+
+
 
 
 
