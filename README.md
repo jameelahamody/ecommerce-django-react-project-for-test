@@ -38,4 +38,20 @@ A completely customized eCommerce / shopping cart application using Django, REAC
 - Admin Order details page
 - Mark orders as a delivered option
 - Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
+- PayPal / credit card integration 
+
+
+
+### 🚀 Automation Testing
+- UI tests
+- Integration tests
+- Unit tests 
+
+### 🚀 Software 
+- Pycharm (python 3.9)
+- Docker
+- Jenkins
+- Selenium(IDE,Webdriver,Grid)
+- Jire
+
+###  The workflow in software development and delivery is divided into 8 phases :![image](https://user-images.githubusercontent.com/49075279/198845737-a4cb185b-3478-4b59-ac43-0517e70259f5.png)
