@@ -65,10 +65,10 @@ A completely customized eCommerce / shopping cart application using Django, REAC
 
  Continuous deployment -> deploy to prod servers or release .
 
-![jenkins screenshot](https://user-images.githubusercontent.com/49075279/198846051-41fe3d04-320d-43f3-a6ac-666177160d94.png)
 
 
-### Jira![image](https://user-images.githubusercontent.com/49075279/198846118-c668d4c5-1fbd-426b-bb8d-089f1c01d442.png)
+
+### Jira
 
 
 
