@@ -46,6 +46,9 @@ A completely customized eCommerce / shopping cart application using Django, REAC
 - UI tests
 - Integration tests
 - Unit tests 
+
+
+
 ![image](https://user-images.githubusercontent.com/49075279/198846548-819d8d75-a778-4ae7-b32e-68b9d8d7ddfc.png)
 
 
